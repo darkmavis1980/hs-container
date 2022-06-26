@@ -1,0 +1,3 @@
+ssl/*
+projects/*
+!projects/README.md
