@@ -1,3 +1,4 @@
 ssl/*
+!ssl/README.md
 projects/*
 !projects/README.md
