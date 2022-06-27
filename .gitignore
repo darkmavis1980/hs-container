@@ -1,5 +1,4 @@
 ssh/*
 projects/*
-!projects/README.md
 
 !.gitkeep
