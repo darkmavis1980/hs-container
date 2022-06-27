@@ -1,4 +1,4 @@
-ssl/*
-!ssl/README.md
+ssh/*
+!ssh/README.md
 projects/*
 !projects/README.md
